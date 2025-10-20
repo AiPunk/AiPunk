@@ -85,7 +85,7 @@ Example:
 
 ## 🤝 Let’s Connect
 🌍 [GitHub Profile](https://github.com/AiPunk)  
-💼 [LinkedIn]((https://www.linkedin.com/in/johannesforsterai/)
+💼 [LinkedIn](https://www.linkedin.com/in/johannesforsterai/)
 💬 Feel free to reach out for collaborations on AI, MLOps, or creative automation projects.
 
 ---
