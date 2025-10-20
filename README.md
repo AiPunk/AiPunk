@@ -13,12 +13,12 @@ I’ve worked with global companies like **IBM** and **KPMG**, as well as the st
 
 ## 🧠 Featured Projects
 
-| Repository | Description |
-|-------------|-------------|
-| [**brewery-dwh-data-factory**](https://github.com/AiPunk/brewery-dwh-data-factory) | Data Factory proof-of-concept for the *Sepplpetters Microbrewery* — explores ETL pipelines, orchestration, and DWH design. |
-| [**pyspark-exploration**](https://github.com/AiPunk/pyspark-exploration) | Exploring PySpark for metadata generation, PSI detection, and anonymization in a DWH context. |
-| [**mlflow--sample-project**](https://github.com/AiPunk/mlflow--sample-project) | Example of model tracking and lifecycle management using MLflow. |
-| [**ds-showcase**](https://github.com/AiPunk/ds-showcase) | Example scripts demonstrating ML and NLP capabilities for business insights. |
+| Repository                                                                                              | Description                                                                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**alpine-data/ubs--regulatory-compliance**](https://github.com/alpine-data/ubs--regulatory-compliance) | A framework designed to assist financial institutions in navigating and adhering to regulatory compliance requirements. It provides tools and templates to streamline compliance processes. |
+| [**alpine-data/data-vault-cli**](https://github.com/alpine-data/data-vault-cli)                         | A command-line interface tool that facilitates the implementation and management of Data Vault 2.0 methodologies, enhancing data warehousing practices.                                     |
+| [**AiBlues/maquette**](https://github.com/AiBlues/maquette)                                             | A machine learning platform developed by a team with insights from IBM, offering tools and frameworks for scalable ML lifecycle management and deployment.                                  |
+| [**AiPunk/brewery-dwh-data-factory**](https://github.com/AiPunk/brewery-dwh-data-factory)               | A proof-of-concept project demonstrating the orchestration of data ingestion, transformation, and loading processes in a data warehouse, using a microbrewery example.                      |
 
 ---
 
