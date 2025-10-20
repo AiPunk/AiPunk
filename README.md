@@ -33,5 +33,4 @@ My professional focus lies at the intersection of **machine learning, data engin
 
 ### 📫 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/johannesforsterai/)
-- [Email](mailto:you@example.com)
 
