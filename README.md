@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Johannes Forster (@AiPunk)
 
 I’m an experienced **AI Developer & Data Scientist**, passionate about bridging **machine learning**, **data engineering**, and **intelligent automation** — from enterprise-scale pipelines to creative AI projects.
+Welcome to my private Github account. Here, I share projects outside of my professional and enterprise Github accounts.
 
 I’ve worked with global companies like **IBM** and **KPMG**, as well as the startup **Apheris**, specializing in:
 - Applied **Machine Learning & MLOps**
